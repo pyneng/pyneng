@@ -1,5 +1,3 @@
-## Мои проекты:
-
 ### [Python для сетевых инженеров](https://natenka.github.io/pyneng/)
 
 * [Книга "Python для сетевых инженеров"](https://pyneng.readthedocs.io/ru/latest/)
@@ -7,7 +5,7 @@
 * [Онлайн курс](https://natenka.github.io/pyneng-online/)
 * 💬 [Сообщество в Slack где можно задать вопросы](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 
-### Книга ["Ansible для сетевых инженеров"](https://ansible-for-network-engineers.readthedocs.io) ещё в процесе написания.
+### Книга ["Ansible для сетевых инженеров"](https://ansible-for-network-engineers.readthedocs.io) в процесе написания.
 
 ### Advanced Python для сетевых инженеров
 
