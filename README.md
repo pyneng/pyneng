@@ -1,7 +1,3 @@
-* Blog [natenka.io](https://natenka.io/)
-* twitter [@natenka_says](https://twitter.com/natenka_says)
-
-## [Мои проекты](https://natenka.io/projects/)
 
 * &#128215; Python для сетевых инженеров: [книга](https://pyneng.readthedocs.io/ru/latest/), [лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo), [задания](https://github.com/natenka/pyneng-examples-exercises)
 * &#128215; Advanced Python для сетевых инженеров: [книга](https://advpyneng.readthedocs.io/ru/latest/), [лекции по части тем](https://natenka.io/advpyneng/), [задания](https://github.com/natenka/advpyneng-examples-exercises)
